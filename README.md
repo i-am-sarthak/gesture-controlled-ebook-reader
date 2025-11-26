@@ -34,7 +34,7 @@ Detects hand gestures using:
 Clone the repo:
 
 ```bash
-git clone <your-ssh-url>
+git clone git@github.com:i-am-sarthak/gesture-controlled-ebook-reader.git
 cd hand-gesture-ebook-reader
 ```
 
